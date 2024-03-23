@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Medido1/Frontend-Mentor-Ping-coming-soon-page)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://medido1.github.io/Frontend-Mentor-Ping-coming-soon-page/)
 
 ## My process
 
